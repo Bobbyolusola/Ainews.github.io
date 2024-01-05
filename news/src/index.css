@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    background: whitesmoke;
+    background: linear-gradient(270deg, #DBDBE1 30.75%, #4C75B7 67.86%, #359FAD 100.11%, #2CAFA8 115.28%);
 }
 
 * {
